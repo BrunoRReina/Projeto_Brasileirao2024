@@ -1,0 +1,381 @@
+data,horário,time_casa,placar,time_visitante,publico,estadio,gols_casa,gols_visitante,resultado,saldo_gols,rodada
+2024-04-13,18:30,Criciúma,1–1,Juventude,12804.0,Estádio Heriberto Hülse,1,1,empate,0,1
+2024-04-13,18:30,Internacional,2–1,Bahia,19103.0,Estádio José Pinheiro Borba,2,1,vitoria_casa,1,1
+2024-04-13,21:00,Fluminense,2–2,RB Bragantino,17645.0,Estadio Jornalista Mário Filho,2,2,empate,0,1
+2024-04-13,21:00,São Paulo,1–2,Fortaleza,35055.0,Estádio do Morumbi,1,2,vitoria_fora,-1,1
+2024-04-14,16:00,Ath Paranaense,4–0,Cuiabá,21388.0,Ligga Arena,4,0,vitoria_casa,4,1
+2024-04-14,16:00,Vasco da Gama,2–1,Grêmio,17722.0,Estádio Club de Regatas Vasco da Gama,2,1,vitoria_casa,1,1
+2024-04-14,16:00,Corinthians,0–0,Atlético Mineiro,44285.0,Neo Química Arena,0,0,empate,0,1
+2024-04-14,16:00,Atl Goianiense,1–2,Flamengo,31617.0,Estádio do Governo do Estado de Goiás,1,2,vitoria_fora,-1,1
+2024-04-14,17:00,Cruzeiro,3–2,Botafogo (RJ),20701.0,Estádio Governador Magalhães Pinto,3,2,vitoria_casa,1,1
+2024-04-14,18:30,Vitória,0–1,Palmeiras,30644.0,Estádio Manoel Barradas,0,1,vitoria_fora,-1,1
+2024-04-16,21:30,Bahia,2–1,Fluminense,2308.0,Itaipava Arena Fonte Nova,2,1,vitoria_casa,1,2
+2024-04-17,21:30,Flamengo,2–1,São Paulo,45166.0,Estadio Jornalista Mário Filho,2,1,vitoria_casa,1,2
+2024-04-17,20:00,Fortaleza,1–1,Cruzeiro,21726.0,Estádio Castelão,1,1,empate,0,2
+2024-04-17,20:00,Palmeiras,0–1,Internacional,13464.0,Allianz Parque,0,1,vitoria_fora,-1,2
+2024-04-17,20:00,Juventude,2–0,Corinthians,7478.0,Estádio Alfredo Jaconi,2,0,vitoria_casa,2,2
+2024-04-17,19:00,RB Bragantino,2–1,Vasco da Gama,5448.0,Estádio Nabi Abi Chedid,2,1,vitoria_casa,1,2
+2024-04-17,19:00,Grêmio,2–0,Ath Paranaense,13236.0,Arena do Grêmio,2,0,vitoria_casa,2,2
+2024-04-17,20:00,Atlético Mineiro,1–1,Criciúma,21726.0,Arena MRV,1,1,empate,0,2
+2024-04-18,21:30,Botafogo (RJ),1–0,Atl Goianiense,7801.0,Estádio Nilton Santos,1,0,vitoria_casa,1,2
+2024-04-20,16:00,Fluminense,2–1,Vasco da Gama,25842.0,Estadio Jornalista Mário Filho,2,1,vitoria_casa,1,2
+2024-04-20,18:30,RB Bragantino,1–0,Corinthians,9466.0,Estádio Nabi Abi Chedid,1,0,vitoria_casa,1,3
+2024-04-20,18:30,Grêmio,1–0,Cuiabá,22904.0,Arena do Grêmio,1,0,vitoria_casa,1,3
+2024-04-20,21:00,Atlético Mineiro,3–0,Cruzeiro,39541.0,Arena MRV,3,0,vitoria_casa,3,3
+2024-04-21,18:30,Botafogo (RJ),5–1,Juventude,13273.0,Estádio Municipal Nílton Santos,5,1,vitoria_casa,4,3
+2024-04-21,18:30,Atl Goianiense,0–3,São Paulo,8024.0,Estádio Antônio Accioly,0,3,vitoria_fora,-3,3
+2024-04-21,16:00,Vitória,2–2,Bahia,27609.0,Estádio Manoel Barradas,2,2,empate,0,3
+2024-04-21,16:00,Palmeiras,0–0,Flamengo,29956.0,Allianz Parque,0,0,empate,0,3
+2024-04-21,16:00,Ath Paranaense,1–0,Internacional,29784.0,Ligga Arena,1,0,vitoria_casa,1,3
+2024-04-27,21:00,Bahia,1–0,Grêmio,35836.0,Itaipava Arena Fonte Nova,1,0,vitoria_casa,1,3
+2024-04-27,16:00,Vasco da Gama,0–4,Criciúma,17124.0,Estádio Club de Regatas Vasco da Gama,0,4,vitoria_fora,-4,3
+2024-04-27,17:30,Cuiabá,0–3,Atlético Mineiro,6711.0,Arena Pantanal,0,3,vitoria_fora,-3,4
+2024-04-28,18:30,Juventude,1–1,Ath Paranaense,5032.0,Estádio Alfredo Jaconi,1,1,empate,0,4
+2024-04-28,18:30,Fortaleza,1–1,RB Bragantino,18113.0,Estádio Castelão,1,1,empate,0,4
+2024-04-28,20:00,Internacional,1–1,Atl Goianiense,28468.0,Estádio José Pinheiro Borba,1,1,empate,0,4
+2024-04-28,16:00,Cruzeiro,3–1,Vitória,20083.0,Estádio Governador Magalhães Pinto,3,1,vitoria_casa,2,4
+2024-04-28,11:00,Flamengo,0–2,Botafogo (RJ),53683.0,Estadio Jornalista Mário Filho,0,2,vitoria_fora,-2,4
+2024-04-28,16:00,Corinthians,3–0,Fluminense,42119.0,Neo Química Arena,3,0,vitoria_casa,3,4
+2024-04-29,20:00,São Paulo,0–0,Palmeiras,55694.0,Estádio do Morumbi,0,0,empate,0,4
+2024-05-04,16:00,Fluminense,2–2,Atlético Mineiro,5168.0,Estádio Kleber José de Andrade,2,2,empate,0,4
+2024-05-04,18:30,RB Bragantino,1–1,Flamengo,9917.0,Estádio Nabi Abi Chedid,1,1,empate,0,4
+2024-05-04,21:00,Corinthians,0–0,Fortaleza,42456.0,Neo Química Arena,0,0,empate,0,5
+2024-05-05,18:30,Botafogo (RJ),1–2,Bahia,22685.0,Estádio Nilton Santos,1,2,vitoria_fora,-1,5
+2024-05-05,16:00,Vitória,1–3,São Paulo,25739.0,Estádio Manoel Barradas,1,3,vitoria_fora,-2,5
+2024-05-05,16:00,Ath Paranaense,1–0,Vasco da Gama,31192.0,Ligga Arena,1,0,vitoria_casa,1,5
+2024-05-05,17:30,Cuiabá,0–2,Palmeiras,10781.0,Arena Pantanal,0,2,vitoria_fora,-2,5
+2024-05-11,16:00,Flamengo,2–0,Corinthians,56829.0,Estadio Jornalista Mário Filho,2,0,vitoria_casa,2,5
+2024-05-12,16:00,Palmeiras,0–2,Ath Paranaense,12108.0,Arena Barueri,0,2,vitoria_fora,-2,5
+2024-05-12,16:00,Atl Goianiense,0–1,Cruzeiro,7576.0,Estádio Antônio Accioly,0,1,vitoria_fora,-1,5
+2024-05-12,16:00,Fortaleza,1–1,Botafogo (RJ),15914.0,Estádio Castelão,1,1,empate,0,5
+2024-05-12,18:30,Bahia,1–0,RB Bragantino,3682.0,Itaipava Arena Fonte Nova,1,0,vitoria_casa,1,5
+2024-05-12,18:30,Vasco da Gama,2–1,Vitória,11084.0,Estádio Club de Regatas Vasco da Gama,2,1,vitoria_casa,1,6
+2024-05-13,20:00,São Paulo,2–1,Fluminense,39515.0,Estádio do Morumbi,2,1,vitoria_casa,1,6
+2024-06-01,21:00,Corinthians,0–1,Botafogo (RJ),41281.0,Neo Química Arena,0,1,vitoria_fora,-1,6
+2024-06-01,17:30,Cuiabá,0–1,Internacional,5747.0,Arena Pantanal,0,1,vitoria_fora,-1,6
+2024-06-01,18:30,Fluminense,1–1,Juventude,21037.0,Estadio Jornalista Mário Filho,1,1,empate,0,6
+2024-06-01,16:00,Vitória,0–2,Atl Goianiense,16008.0,Estádio Manoel Barradas,0,2,vitoria_fora,-2,6
+2024-06-01,16:00,Grêmio,0–2,RB Bragantino,7563.0,Estádio Major Antônio Couto Pereira,0,2,vitoria_fora,-2,6
+2024-06-02,16:00,Criciúma,1–2,Palmeiras,19027.0,Estádio Heriberto Hülse,1,2,vitoria_fora,-1,6
+2024-06-02,16:00,Atlético Mineiro,1–1,Bahia,37994.0,Arena MRV,1,1,empate,0,6
+2024-06-02,16:00,Vasco da Gama,1–6,Flamengo,62228.0,Estadio Jornalista Mário Filho,1,6,vitoria_fora,-5,6
+2024-06-02,18:30,São Paulo,2–0,Cruzeiro,44928.0,Estádio do Morumbi,2,0,vitoria_casa,2,7
+2024-06-02,18:30,Fortaleza,1–0,Ath Paranaense,12191.0,Estádio Municipal Presidente Getúlio Var...,1,0,vitoria_casa,1,7
+2024-06-05,19:00,Cuiabá,0–0,Vitória,3614.0,Arena Pantanal,0,0,empate,0,7
+2024-06-05,19:00,Juventude,1–0,Atl Goianiense,5123.0,Estádio Alfredo Jaconi,1,0,vitoria_casa,1,7
+2024-06-09,16:00,Criciúma,2–5,Cuiabá,13846.0,Estádio Heriberto Hülse,2,5,vitoria_fora,-3,7
+2024-06-11,20:00,Botafogo (RJ),1–0,Fluminense,27239.0,Estádio Nilton Santos,1,0,vitoria_casa,1,7
+2024-06-11,21:30,RB Bragantino,1–2,Atlético Mineiro,4617.0,Estádio Nabi Abi Chedid,1,2,vitoria_fora,-1,7
+2024-06-11,19:00,Juventude,1–1,Vitória,6186.0,Estádio Alfredo Jaconi,1,1,empate,0,7
+2024-06-11,19:00,Atl Goianiense,2–2,Corinthians,1208.0,Estádio Antônio Accioly,2,2,empate,0,7
+2024-06-13,19:00,Cruzeiro,2–1,Cuiabá,26595.0,Estádio Governador Magalhães Pinto,2,1,vitoria_casa,1,7
+2024-06-13,20:00,Flamengo,2–1,Grêmio,51785.0,Estadio Jornalista Mário Filho,2,1,vitoria_casa,1,8
+2024-06-13,20:00,Internacional,0–0,São Paulo,17987.0,Estádio Heriberto Hülse,0,0,empate,0,8
+2024-06-13,20:00,Ath Paranaense,3–1,Criciúma,23424.0,Ligga Arena,3,1,vitoria_casa,2,8
+2024-06-13,21:30,Bahia,1–0,Fortaleza,29889.0,Itaipava Arena Fonte Nova,1,0,vitoria_casa,1,8
+2024-06-13,21:30,Palmeiras,2–0,Vasco da Gama,37641.0,Allianz Parque,2,0,vitoria_casa,2,8
+2024-06-15,21:00,Fluminense,1–2,Atl Goianiense,14485.0,Estadio Jornalista Mário Filho,1,2,vitoria_fora,-1,8
+2024-06-15,18:30,RB Bragantino,2–1,Juventude,3338.0,Estádio Nabi Abi Chedid,2,1,vitoria_casa,1,8
+2024-06-16,18:30,Vasco da Gama,0–0,Cruzeiro,11275.0,Estádio Club de Regatas Vasco da Gama,0,0,empate,0,8
+2024-06-16,18:30,Grêmio,1–2,Botafogo (RJ),15595.0,Estádio Kleber José de Andrade,1,2,vitoria_fora,-1,8
+2024-06-16,18:30,Criciúma,2–2,Bahia,8661.0,Estádio Heriberto Hülse,2,2,empate,0,8
+2024-06-16,17:30,Cuiabá,5–0,Fortaleza,4474.0,Arena Pantanal,5,0,vitoria_casa,5,9
+2024-06-16,16:00,Corinthians,2–2,São Paulo,46129.0,Neo Química Arena,2,2,empate,0,9
+2024-06-16,16:00,Vitória,2–1,Internacional,14251.0,Estádio Manoel Barradas,2,1,vitoria_casa,1,9
+2024-06-16,16:00,Ath Paranaense,1–1,Flamengo,38641.0,Ligga Arena,1,1,empate,0,9
+2024-06-17,20:30,Atlético Mineiro,0–4,Palmeiras,28251.0,Arena MRV,0,4,vitoria_fora,-4,9
+2024-06-19,21:30,Cruzeiro,2–0,Fluminense,28812.0,Estádio Governador Magalhães Pinto,2,0,vitoria_casa,2,9
+2024-06-19,19:00,Atl Goianiense,1–2,Criciúma,6478.0,Estádio Antônio Accioly,1,2,vitoria_fora,-1,9
+2024-06-19,19:00,Botafogo (RJ),1–1,Ath Paranaense,19589.0,Estádio Nilton Santos,1,1,empate,0,9
+2024-06-19,20:00,Fortaleza,1–0,Grêmio,16935.0,Estádio Castelão,1,0,vitoria_casa,1,9
+2024-06-19,20:00,São Paulo,0–1,Cuiabá,33586.0,Estádio do Morumbi,0,1,vitoria_fora,-1,9
+2024-06-19,20:00,Juventude,2–0,Vasco da Gama,4838.0,Estádio Alfredo Jaconi,2,0,vitoria_casa,2,10
+2024-06-19,21:30,Internacional,1–0,Corinthians,14447.0,Estádio Orlando Scarpelli,1,0,vitoria_casa,1,10
+2024-06-20,21:30,Palmeiras,2–1,RB Bragantino,29119.0,Allianz Parque,2,1,vitoria_casa,1,10
+2024-06-20,18:30,Vitória,4–2,Atlético Mineiro,15044.0,Estádio Manoel Barradas,4,2,vitoria_casa,2,10
+2024-06-20,20:00,Flamengo,2–1,Bahia,49909.0,Estadio Jornalista Mário Filho,2,1,vitoria_casa,1,10
+2024-06-22,16:00,Criciúma,2–1,Botafogo (RJ),16256.0,Estádio Heriberto Hülse,2,1,vitoria_casa,1,10
+2024-06-22,17:30,Grêmio,0–1,Internacional,27961.0,Estádio Major Antônio Couto Pereira,0,1,vitoria_fora,-1,10
+2024-06-22,21:30,Vasco da Gama,4–1,São Paulo,4897.0,Estádio Club de Regatas Vasco da Gama,4,1,vitoria_casa,3,10
+2024-06-22,17:30,Cuiabá,0–0,Atl Goianiense,4635.0,Arena Pantanal,0,0,empate,0,10
+2024-06-23,16:00,Fluminense,0–1,Flamengo,57098.0,Estadio Jornalista Mário Filho,0,1,vitoria_fora,-1,10
+2024-06-23,16:00,Bahia,4–1,Cruzeiro,35541.0,Itaipava Arena Fonte Nova,4,1,vitoria_casa,3,11
+2024-06-23,16:00,Ath Paranaense,1–1,Corinthians,34682.0,Ligga Arena,1,1,empate,0,11
+2024-06-23,18:30,Atlético Mineiro,1–1,Fortaleza,20089.0,Arena MRV,1,1,empate,0,11
+2024-06-23,18:30,Palmeiras,3–1,Juventude,38258.0,Allianz Parque,3,1,vitoria_casa,2,11
+2024-06-23,18:30,RB Bragantino,2–1,Vitória,4426.0,Estádio Nabi Abi Chedid,2,1,vitoria_casa,1,11
+2024-06-26,21:30,Bahia,2–1,Vasco da Gama,38318.0,Itaipava Arena Fonte Nova,2,1,vitoria_casa,1,11
+2024-06-26,20:00,Corinthians,1–1,Cuiabá,38475.0,Neo Química Arena,1,1,empate,0,11
+2024-06-26,20:00,Atl Goianiense,1–1,Grêmio,7319.0,Estádio Antônio Accioly,1,1,empate,0,11
+2024-06-26,19:00,Cruzeiro,2–0,Ath Paranaense,26465.0,Estádio Governador Magalhães Pinto,2,0,vitoria_casa,2,11
+2024-06-26,19:00,Botafogo (RJ),2–1,RB Bragantino,13333.0,Estádio Nilton Santos,2,1,vitoria_casa,1,11
+2024-06-26,21:30,Internacional,1–2,Atlético Mineiro,9978.0,Estádio Heriberto Hülse,1,2,vitoria_fora,-1,12
+2024-06-26,20:00,Juventude,2–1,Flamengo,12675.0,Estádio Alfredo Jaconi,2,1,vitoria_casa,1,12
+2024-06-26,21:30,Fortaleza,3–0,Palmeiras,28613.0,Estádio Castelão,3,0,vitoria_casa,3,12
+2024-06-27,19:00,Fluminense,0–1,Vitória,24269.0,Estadio Jornalista Mário Filho,0,1,vitoria_fora,-1,12
+2024-06-27,20:00,São Paulo,2–1,Criciúma,28008.0,Estádio do Morumbi,2,1,vitoria_casa,1,12
+2024-06-29,18:30,Vasco da Gama,1–1,Botafogo (RJ),15593.0,Estádio Club de Regatas Vasco da Gama,1,1,empate,0,12
+2024-06-29,17:30,Cuiabá,1–1,RB Bragantino,5024.0,Arena Pantanal,1,1,empate,0,12
+2024-06-30,11:00,Atlético Mineiro,1–1,Atl Goianiense,36099.0,Arena MRV,1,1,empate,0,12
+2024-06-30,16:00,São Paulo,3–1,Bahia,28008.0,Estádio do Morumbi,3,1,vitoria_casa,2,12
+2024-06-30,16:00,Fortaleza,2–1,Juventude,33717.0,Estádio Castelão,2,1,vitoria_casa,1,12
+2024-06-30,16:00,Grêmio,1–0,Fluminense,8549.0,Estádio Francisco Stédile,1,0,vitoria_casa,1,13
+2024-06-30,18:30,Flamengo,2–1,Cruzeiro,52768.0,Estadio Jornalista Mário Filho,2,1,vitoria_casa,1,13
+2024-06-30,18:30,Criciúma,1–1,Internacional,14946.0,Estádio Heriberto Hülse,1,1,empate,0,13
+2024-06-30,18:30,Vitória,0–1,Ath Paranaense,20376.0,Estádio Manoel Barradas,0,1,vitoria_fora,-1,13
+2024-07-01,20:00,Palmeiras,2–0,Corinthians,41175.0,Allianz Parque,2,0,vitoria_casa,2,13
+2024-07-03,21:30,Atlético Mineiro,2–4,Flamengo,33993.0,Arena MRV,2,4,vitoria_fora,-2,13
+2024-07-03,21:30,RB Bragantino,3–1,Atl Goianiense,3102.0,Estádio Nabi Abi Chedid,3,1,vitoria_casa,2,13
+2024-07-03,21:30,Ath Paranaense,1–2,São Paulo,28632.0,Ligga Arena,1,2,vitoria_fora,-1,13
+2024-07-03,20:00,Criciúma,1–0,Cruzeiro,12352.0,Estádio Heriberto Hülse,1,0,vitoria_casa,1,13
+2024-07-03,20:00,Vasco da Gama,2–0,Fortaleza,14384.0,Estádio Club de Regatas Vasco da Gama,2,0,vitoria_casa,2,13
+2024-07-03,18:00,Cuiabá,1–2,Botafogo (RJ),7849.0,Arena Pantanal,1,2,vitoria_fora,-1,14
+2024-07-04,19:00,Bahia,2–0,Juventude,40442.0,Itaipava Arena Fonte Nova,2,0,vitoria_casa,2,14
+2024-07-04,20:00,Corinthians,3–2,Vitória,37689.0,Neo Química Arena,3,2,vitoria_casa,1,14
+2024-07-04,20:00,Fluminense,1–1,Internacional,40337.0,Estadio Jornalista Mário Filho,1,1,empate,0,14
+2024-07-04,19:00,Grêmio,2–2,Palmeiras,20797.0,Estádio Francisco Stédile,2,2,empate,0,14
+2024-07-06,20:00,Flamengo,1–1,Cuiabá,54948.0,Estadio Jornalista Mário Filho,1,1,empate,0,14
+2024-07-06,20:00,São Paulo,2–0,RB Bragantino,46321.0,Estádio do Morumbi,2,0,vitoria_casa,2,14
+2024-07-07,20:30,Botafogo (RJ),3–0,Atlético Mineiro,21582.0,Estádio Nilton Santos,3,0,vitoria_casa,3,14
+2024-07-07,18:30,Vitória,2–1,Criciúma,16615.0,Estádio Manoel Barradas,2,1,vitoria_casa,1,14
+2024-07-07,18:30,Palmeiras,2–0,Bahia,40198.0,Allianz Parque,2,0,vitoria_casa,2,14
+2024-07-07,18:30,Atl Goianiense,1–2,Ath Paranaense,6152.0,Estádio Antônio Accioly,1,2,vitoria_fora,-1,15
+2024-07-07,16:00,Cruzeiro,3–0,Corinthians,55186.0,Estádio Governador Magalhães Pinto,3,0,vitoria_casa,3,15
+2024-07-07,16:00,Juventude,3–0,Grêmio,7984.0,Estádio Alfredo Jaconi,3,0,vitoria_casa,3,15
+2024-07-07,16:00,Fortaleza,1–0,Fluminense,34831.0,Estádio Castelão,1,0,vitoria_casa,1,15
+2024-07-07,18:00,Internacional,1–2,Vasco da Gama,41693.0,Estádio José Pinheiro Borba,1,2,vitoria_fora,-1,15
+2024-07-10,18:30,Grêmio,0–2,Cruzeiro,4623.0,Estádio Francisco Stédile,0,2,vitoria_fora,-2,15
+2024-07-10,19:00,Ath Paranaense,1–3,Bahia,23307.0,Ligga Arena,1,3,vitoria_fora,-2,15
+2024-07-10,19:00,Vasco da Gama,2–0,Corinthians,23307.0,Estádio Club de Regatas Vasco da Gama,2,0,vitoria_casa,2,15
+2024-07-11,19:30,Palmeiras,3–1,Atl Goianiense,26897.0,Allianz Parque,3,1,vitoria_casa,2,15
+2024-07-11,20:00,Flamengo,1–2,Fortaleza,57517.0,Estadio Jornalista Mário Filho,1,2,vitoria_fora,-1,15
+2024-07-11,20:00,Criciúma,1–1,Fluminense,11486.0,Estádio Heriberto Hülse,1,1,empate,0,16
+2024-07-11,21:30,Vitória,0–1,Botafogo (RJ),16489.0,Estádio Manoel Barradas,0,1,vitoria_fora,-1,16
+2024-07-11,21:30,Atlético Mineiro,2–1,São Paulo,28772.0,Arena MRV,2,1,vitoria_casa,1,16
+2024-07-13,16:00,Bahia,1–2,Cuiabá,48602.0,Itaipava Arena Fonte Nova,1,2,vitoria_fora,-1,16
+2024-07-13,16:00,Cruzeiro,2–1,RB Bragantino,20042.0,Estádio Raimundo Sampaio,2,1,vitoria_casa,1,16
+2024-07-16,19:00,Juventude,1–1,Atlético Mineiro,9788.0,Estádio Nacional de Brasília,1,1,empate,0,16
+2024-07-16,21:00,Corinthians,2–1,Criciúma,43241.0,Neo Química Arena,2,1,vitoria_casa,1,16
+2024-07-17,19:00,Atl Goianiense,0–1,Vasco da Gama,12089.0,Estádio Antônio Accioly,0,1,vitoria_fora,-1,16
+2024-07-17,20:00,São Paulo,1–0,Grêmio,53168.0,Estádio do Morumbi,1,0,vitoria_casa,1,16
+2024-07-17,21:30,Fortaleza,3–1,Vitória,24813.0,Estádio Castelão,3,1,vitoria_casa,2,16
+2024-07-17,21:30,Botafogo (RJ),1–0,Palmeiras,3957.0,Estádio Nilton Santos,1,0,vitoria_casa,1,17
+2024-07-20,16:00,Flamengo,2–1,Criciúma,60127.0,Estádio Nacional de Brasília,2,1,vitoria_casa,1,17
+2024-07-20,18:30,Botafogo (RJ),1–0,Internacional,31344.0,Estádio Nilton Santos,1,0,vitoria_casa,1,17
+2024-07-20,21:00,Palmeiras,2–0,Cruzeiro,40465.0,Allianz Parque,2,0,vitoria_casa,2,17
+2024-07-21,19:00,Cuiabá,0–1,Fluminense,13231.0,Arena Pantanal,0,1,vitoria_fora,-1,17
+2024-07-21,18:30,Juventude,0–0,São Paulo,26476.0,Estádio Nacional de Brasília,0,0,empate,0,17
+2024-07-21,18:30,Fortaleza,3–1,Atl Goianiense,30822.0,Estádio Castelão,3,1,vitoria_casa,2,17
+2024-07-21,16:00,Atlético Mineiro,2–0,Vasco da Gama,42353.0,Arena MRV,2,0,vitoria_casa,2,17
+2024-07-21,16:00,Bahia,0–1,Corinthians,48346.0,Itaipava Arena Fonte Nova,0,1,vitoria_fora,-1,17
+2024-07-21,11:00,Grêmio,2–0,Vitória,25248.0,Estádio Francisco Stédile,2,0,vitoria_casa,2,17
+2024-07-21,18:30,RB Bragantino,1–0,Ath Paranaense,4423.0,Estádio Nabi Abi Chedid,1,0,vitoria_casa,1,18
+2024-07-24,19:00,Criciúma,1–1,Fortaleza,13625.0,Estádio Heriberto Hülse,1,1,empate,0,18
+2024-07-24,19:00,Cruzeiro,2–0,Juventude,46603.0,Estádio Governador Magalhães Pinto,2,0,vitoria_casa,2,18
+2024-07-24,19:30,São Paulo,2–2,Botafogo (RJ),53244.0,Estádio do Morumbi,2,2,empate,0,18
+2024-07-24,20:00,Vitória,1–2,Flamengo,30688.0,Estádio Manoel Barradas,1,2,vitoria_fora,-1,18
+2024-07-24,21:30,Atl Goianiense,1–1,Bahia,5777.0,Estádio Antônio Accioly,1,1,empate,0,18
+2024-07-24,21:30,Fluminense,1–0,Palmeiras,51375.0,Estadio Jornalista Mário Filho,1,0,vitoria_casa,1,18
+2024-07-25,20:00,Corinthians,2–2,Grêmio,45183.0,Neo Química Arena,2,2,empate,0,18
+2024-07-27,21:30,Fortaleza,1–0,São Paulo,41322.0,Estádio Castelão,1,0,vitoria_casa,1,18
+2024-07-27,21:30,Botafogo (RJ),0–3,Cruzeiro,19349.0,Estádio Nilton Santos,0,3,vitoria_fora,-3,18
+2024-07-27,19:00,Palmeiras,0–2,Vitória,39609.0,Allianz Parque,0,2,vitoria_fora,-2,19
+2024-07-27,19:00,Juventude,1–2,Criciúma,6564.0,Estádio Alfredo Jaconi,1,2,vitoria_fora,-1,19
+2024-07-27,20:00,Bahia,1–1,Internacional,3295.0,Itaipava Arena Fonte Nova,1,1,empate,0,19
+2024-07-28,11:00,RB Bragantino,0–1,Fluminense,7304.0,Estádio Nabi Abi Chedid,0,1,vitoria_fora,-1,19
+2024-07-28,16:00,Flamengo,2–0,Atl Goianiense,61883.0,Estadio Jornalista Mário Filho,2,0,vitoria_casa,2,19
+2024-07-28,18:00,Cuiabá,1–2,Ath Paranaense,4452.0,Arena Pantanal,1,2,vitoria_fora,-1,19
+2024-07-28,19:00,Atlético Mineiro,2–1,Corinthians,44048.0,Arena MRV,2,1,vitoria_casa,1,19
+2024-07-28,19:00,Grêmio,1–0,Vasco da Gama,17621.0,Arena Condá,1,0,vitoria_casa,1,19
+2024-08-03,21:30,São Paulo,1–0,Flamengo,58065.0,Estádio do Morumbi,1,0,vitoria_casa,1,19
+2024-08-03,20:00,Criciúma,2–1,Atlético Mineiro,15642.0,Estádio Heriberto Hülse,2,1,vitoria_casa,1,19
+2024-08-03,19:00,Vasco da Gama,2–2,RB Bragantino,17938.0,Estádio Club de Regatas Vasco da Gama,2,2,empate,0,20
+2024-08-03,20:00,Atl Goianiense,1–4,Botafogo (RJ),8618.0,Estádio Antônio Accioly,1,4,vitoria_fora,-3,20
+2024-08-03,16:00,Vitória,1–0,Cuiabá,26715.0,Estádio Manoel Barradas,1,0,vitoria_casa,1,20
+2024-08-04,16:00,Fluminense,1–0,Bahia,50262.0,Estadio Jornalista Mário Filho,1,0,vitoria_casa,1,20
+2024-08-04,16:00,Corinthians,1–1,Juventude,43947.0,Neo Química Arena,1,1,empate,0,20
+2024-08-04,16:00,Ath Paranaense,0–2,Grêmio,27205.0,Ligga Arena,0,2,vitoria_fora,-2,20
+2024-08-04,17:00,Internacional,1–1,Palmeiras,20794.0,Estádio José Pinheiro Borba,1,1,empate,0,20
+2024-08-05,21:00,Cruzeiro,1–2,Fortaleza,20.0,Estádio Kleber José de Andrade,1,2,vitoria_fora,-1,20
+2024-08-10,16:00,Fortaleza,1–0,Criciúma,40311.0,Estádio Castelão,1,0,vitoria_casa,1,20
+2024-08-10,18:00,Cuiabá,1–3,Grêmio,9853.0,Arena Pantanal,1,3,vitoria_fora,-2,20
+2024-08-10,21:30,Vasco da Gama,2–0,Fluminense,20003.0,Estádio Nilton Santos,2,0,vitoria_casa,2,21
+2024-08-10,21:30,Corinthians,1–1,RB Bragantino,42018.0,Neo Química Arena,1,1,empate,0,21
+2024-08-10,21:30,Cruzeiro,0–0,Atlético Mineiro,61583.0,Estádio Governador Magalhães Pinto,0,0,empate,0,21
+2024-08-11,19:00,Internacional,2–2,Ath Paranaense,17136.0,Estádio José Pinheiro Borba,2,2,empate,0,21
+2024-08-11,11:00,Juventude,3–2,Botafogo (RJ),5288.0,Estádio Alfredo Jaconi,3,2,vitoria_casa,1,21
+2024-08-11,16:00,Flamengo,1–1,Palmeiras,55051.0,Estadio Jornalista Mário Filho,1,1,empate,0,21
+2024-08-11,16:00,São Paulo,1–0,Atl Goianiense,466.0,Estádio do Morumbi,1,0,vitoria_casa,1,21
+2024-08-11,16:00,Bahia,2–0,Vitória,45972.0,Itaipava Arena Fonte Nova,2,0,vitoria_casa,2,21
+2024-08-14,19:30,Internacional,2–1,Juventude,1192.0,Estádio José Pinheiro Borba,2,1,vitoria_casa,1,21
+2024-08-17,21:00,Fluminense,0–0,Corinthians,30475.0,Estadio Jornalista Mário Filho,0,0,empate,0,21
+2024-08-17,18:30,RB Bragantino,1–2,Fortaleza,3928.0,Estádio Nabi Abi Chedid,1,2,vitoria_fora,-1,22
+2024-08-17,16:00,Atlético Mineiro,1–1,Cuiabá,3629.0,Arena MRV,1,1,empate,0,22
+2024-08-17,16:00,Grêmio,0–2,Bahia,56102.0,Estádio Alfredo Jaconi,0,2,vitoria_fora,-2,22
+2024-08-18,16:00,Palmeiras,2–1,São Paulo,37244.0,Allianz Parque,2,1,vitoria_casa,1,22
+2024-08-18,16:00,Criciúma,2–2,Vasco da Gama,18403.0,Estádio Heriberto Hülse,2,2,empate,0,22
+2024-08-18,16:00,Atl Goianiense,1–0,Internacional,546.0,Estádio Antônio Accioly,1,0,vitoria_casa,1,22
+2024-08-18,18:30,Ath Paranaense,1–2,Juventude,22926.0,Ligga Arena,1,2,vitoria_fora,-1,22
+2024-08-18,18:30,Botafogo (RJ),4–1,Flamengo,23731.0,Estádio Nilton Santos,4,1,vitoria_casa,3,22
+2024-08-19,20:00,Vitória,2–2,Cruzeiro,17062.0,Estádio Manoel Barradas,2,2,empate,0,22
+2024-08-24,21:00,Atlético Mineiro,0–2,Fluminense,32068.0,Estádio Governador Magalhães Pinto,0,2,vitoria_fora,-2,22
+2024-08-24,16:00,Atl Goianiense,2–1,Juventude,4407.0,Estádio Antônio Accioly,2,1,vitoria_casa,1,23
+2024-08-24,18:30,Palmeiras,5–0,Cuiabá,30956.0,Estádio Brinco de Ouro da Princesa,5,0,vitoria_casa,5,23
+2024-08-25,20:00,Flamengo,2–1,RB Bragantino,28159.0,Estadio Jornalista Mário Filho,2,1,vitoria_casa,1,23
+2024-08-25,19:00,Internacional,1–0,Cruzeiro,26634.0,Estádio José Pinheiro Borba,1,0,vitoria_casa,1,23
+2024-08-25,16:00,Criciúma,0–1,Grêmio,17377.0,Estádio Heriberto Hülse,0,1,vitoria_fora,-1,23
+2024-08-25,16:00,Fortaleza,1–0,Corinthians,51297.0,Estádio Castelão,1,0,vitoria_casa,1,23
+2024-08-25,16:00,Bahia,0–0,Botafogo (RJ),40198.0,Itaipava Arena Fonte Nova,0,0,empate,0,23
+2024-08-25,18:30,São Paulo,2–1,Vitória,32712.0,Estádio do Morumbi,2,1,vitoria_casa,1,23
+2024-08-26,21:00,Vasco da Gama,2–1,Ath Paranaense,16433.0,Estádio Club de Regatas Vasco da Gama,2,1,vitoria_casa,1,23
+2024-08-28,19:30,Cruzeiro,0–0,Internacional,35238.0,Estádio Governador Magalhães Pinto,0,0,empate,0,23
+2024-08-28,19:30,Criciúma,1–0,RB Bragantino,11849.0,Estádio Heriberto Hülse,1,0,vitoria_casa,1,24
+2024-08-31,21:00,Botafogo (RJ),2–0,Fortaleza,32564.0,Estádio Nilton Santos,2,0,vitoria_casa,2,24
+2024-08-31,17:30,Cuiabá,2–1,Criciúma,4095.0,Arena Pantanal,2,1,vitoria_casa,1,24
+2024-09-01,18:30,Fluminense,2–0,São Paulo,45759.0,Estadio Jornalista Mário Filho,2,0,vitoria_casa,2,24
+2024-09-01,18:30,RB Bragantino,2–1,Bahia,3921.0,Estádio Nabi Abi Chedid,2,1,vitoria_casa,1,24
+2024-09-01,18:30,Vitória,0–1,Vasco da Gama,20923.0,Estádio Manoel Barradas,0,1,vitoria_fora,-1,24
+2024-09-01,18:30,Juventude,1–3,Internacional,10721.0,Estádio Alfredo Jaconi,1,3,vitoria_fora,-2,24
+2024-09-01,11:00,Cruzeiro,3–1,Atl Goianiense,50.0,Estádio Governador Magalhães Pinto,3,1,vitoria_casa,2,24
+2024-09-01,16:00,Corinthians,2–1,Flamengo,45635.0,Neo Química Arena,2,1,vitoria_casa,1,24
+2024-09-01,11:00,Grêmio,2–3,Atlético Mineiro,27442.0,Arena do Grêmio,2,3,vitoria_fora,-1,24
+2024-09-01,18:30,Ath Paranaense,0–2,Palmeiras,28334.0,Ligga Arena,0,2,vitoria_fora,-2,25
+2024-09-05,19:00,Cuiabá,0–0,Juventude,4826.0,Arena Pantanal,0,0,empate,0,25
+2024-09-11,19:30,Internacional,2–1,Fortaleza,26441.0,Estádio José Pinheiro Borba,2,1,vitoria_casa,1,25
+2024-09-14,16:00,Atl Goianiense,0–2,Vitória,4938.0,Estádio Antônio Accioly,0,2,vitoria_fora,-2,25
+2024-09-14,18:30,Ath Paranaense,1–1,Fortaleza,31551.0,Ligga Arena,1,1,empate,0,25
+2024-09-14,21:00,Botafogo (RJ),2–1,Corinthians,32718.0,Estádio Nilton Santos,2,1,vitoria_casa,1,25
+2024-09-15,18:30,Flamengo,1–1,Vasco da Gama,652.0,Estadio Jornalista Mário Filho,1,1,empate,0,25
+2024-09-15,18:30,Bahia,3–0,Atlético Mineiro,2642.0,Itaipava Arena Fonte Nova,3,0,vitoria_casa,3,25
+2024-09-15,18:30,Cruzeiro,0–1,São Paulo,55.0,Estádio Governador Magalhães Pinto,0,1,vitoria_fora,-1,25
+2024-09-15,16:00,Juventude,2–1,Fluminense,6232.0,Estádio Alfredo Jaconi,2,1,vitoria_casa,1,25
+2024-09-15,16:00,RB Bragantino,2–2,Grêmio,5228.0,Estádio Nabi Abi Chedid,2,2,empate,0,26
+2024-09-15,16:00,Palmeiras,5–0,Criciúma,37244.0,Allianz Parque,5,0,vitoria_casa,5,26
+2024-09-16,20:00,Internacional,3–0,Cuiabá,35366.0,Estádio José Pinheiro Borba,3,0,vitoria_casa,3,26
+2024-09-21,18:30,Fluminense,0–1,Botafogo (RJ),22.0,Estadio Jornalista Mário Filho,0,1,vitoria_fora,-1,26
+2024-09-21,16:00,Vitória,1–0,Juventude,24479.0,Estádio Manoel Barradas,1,0,vitoria_casa,1,26
+2024-09-21,16:00,Corinthians,3–0,Atl Goianiense,46001.0,Neo Química Arena,3,0,vitoria_casa,3,26
+2024-09-21,21:00,Fortaleza,4–1,Bahia,42051.0,Estádio Castelão,4,1,vitoria_casa,3,26
+2024-09-22,17:30,Cuiabá,0–0,Cruzeiro,5948.0,Arena Pantanal,0,0,empate,0,26
+2024-09-22,20:00,Criciúma,0–0,Ath Paranaense,12765.0,Estádio Heriberto Hülse,0,0,empate,0,26
+2024-09-22,18:30,São Paulo,1–3,Internacional,35111.0,Estádio do Morumbi,1,3,vitoria_fora,-2,26
+2024-09-22,16:00,Vasco da Gama,0–1,Palmeiras,25755.0,Estádio Nacional de Brasília,0,1,vitoria_fora,-1,27
+2024-09-22,16:00,Atlético Mineiro,3–0,RB Bragantino,34533.0,Arena MRV,3,0,vitoria_casa,3,27
+2024-09-22,18:30,Grêmio,3–2,Flamengo,48504.0,Arena do Grêmio,3,2,vitoria_casa,1,27
+2024-09-25,19:00,Grêmio,1–2,Criciúma,18457.0,Arena do Grêmio,1,2,vitoria_fora,-1,27
+2024-09-25,19:00,RB Bragantino,2–2,Internacional,3871.0,Estádio Nabi Abi Chedid,2,2,empate,0,27
+2024-09-28,18:30,Palmeiras,2–1,Atlético Mineiro,1604.0,Estádio Brinco de Ouro da Princesa,2,1,vitoria_casa,1,27
+2024-09-28,21:00,Botafogo (RJ),0–0,Grêmio,4222.0,Estádio Nacional de Brasília,0,0,empate,0,27
+2024-09-29,11:00,Juventude,1–1,RB Bragantino,6285.0,Estádio Alfredo Jaconi,1,1,empate,0,27
+2024-09-29,16:00,Fortaleza,1–0,Cuiabá,42.0,Estádio Castelão,1,0,vitoria_casa,1,27
+2024-09-29,16:00,Atl Goianiense,1–0,Fluminense,7871.0,Estádio Antônio Accioly,1,0,vitoria_casa,1,27
+2024-09-29,16:00,São Paulo,3–1,Corinthians,25888.0,Estádio Nacional de Brasília,3,1,vitoria_casa,2,28
+2024-09-29,18:30,Cruzeiro,1–1,Vasco da Gama,56331.0,Estádio Governador Magalhães Pinto,1,1,empate,0,28
+2024-09-29,18:30,Internacional,3–1,Vitória,45112.0,Estádio José Pinheiro Borba,3,1,vitoria_casa,2,28
+2024-09-29,18:30,Bahia,1–0,Criciúma,24574.0,Itaipava Arena Fonte Nova,1,0,vitoria_casa,1,28
+2024-09-29,20:00,Flamengo,1–0,Ath Paranaense,30022.0,Estadio Jornalista Mário Filho,1,0,vitoria_casa,1,28
+2024-10-03,19:00,Criciúma,2–0,Atl Goianiense,12343.0,Estádio Heriberto Hülse,2,0,vitoria_casa,2,28
+2024-10-03,21:30,Fluminense,1–0,Cruzeiro,30242.0,Estadio Jornalista Mário Filho,1,0,vitoria_casa,1,28
+2024-10-04,21:30,Grêmio,3–1,Fortaleza,22204.0,Arena do Grêmio,3,1,vitoria_casa,2,28
+2024-10-05,19:00,Corinthians,2–2,Internacional,44866.0,Neo Química Arena,2,2,empate,0,28
+2024-10-05,18:00,Cuiabá,2–0,São Paulo,11883.0,Arena Pantanal,2,0,vitoria_casa,2,28
+2024-10-05,19:00,Bahia,0–2,Flamengo,43433.0,Itaipava Arena Fonte Nova,0,2,vitoria_fora,-2,29
+2024-10-05,16:30,Ath Paranaense,0–1,Botafogo (RJ),22726.0,Ligga Arena,0,1,vitoria_fora,-1,29
+2024-10-05,16:30,RB Bragantino,0–0,Palmeiras,9989.0,Estádio Nabi Abi Chedid,0,0,empate,0,29
+2024-10-05,16:30,Atlético Mineiro,2–2,Vitória,3491.0,Arena MRV,2,2,empate,0,29
+2024-10-05,21:00,Vasco da Gama,1–1,Juventude,18036.0,Estádio Club de Regatas Vasco da Gama,1,1,empate,0,29
+2024-10-09,19:30,Atlético Mineiro,2–1,Grêmio,22053.0,Arena MRV,2,1,vitoria_casa,1,29
+2024-10-16,21:45,São Paulo,3–0,Vasco da Gama,15947.0,Estádio Brinco de Ouro da Princesa,3,0,vitoria_casa,3,29
+2024-10-16,21:45,Fortaleza,1–1,Atlético Mineiro,23046.0,Estádio Castelão,1,1,empate,0,29
+2024-10-17,20:00,Flamengo,0–2,Fluminense,58117.0,Estadio Jornalista Mário Filho,0,2,vitoria_fora,-2,29
+2024-10-17,20:00,Corinthians,5–2,Ath Paranaense,44399.0,Neo Química Arena,5,2,vitoria_casa,3,29
+2024-10-18,19:00,Atl Goianiense,0–0,Cuiabá,3622.0,Estádio Antônio Accioly,0,0,empate,0,30
+2024-10-18,20:00,Botafogo (RJ),1–1,Criciúma,64727.0,Estadio Jornalista Mário Filho,1,1,empate,0,30
+2024-10-18,21:30,Cruzeiro,1–1,Bahia,34473.0,Estádio Governador Magalhães Pinto,1,1,empate,0,30
+2024-10-19,16:00,Vitória,1–0,RB Bragantino,25189.0,Estádio Manoel Barradas,1,0,vitoria_casa,1,30
+2024-10-19,16:00,Internacional,1–0,Grêmio,48049.0,Estádio José Pinheiro Borba,1,0,vitoria_casa,1,30
+2024-10-20,20:00,Juventude,3–5,Palmeiras,10102.0,Estádio Alfredo Jaconi,3,5,vitoria_fora,-2,30
+2024-10-22,19:30,Fluminense,1–0,Ath Paranaense,39465.0,Estadio Jornalista Mário Filho,1,0,vitoria_casa,1,30
+2024-10-24,19:00,Vasco da Gama,1–0,Cuiabá,16696.0,Estádio Club de Regatas Vasco da Gama,1,0,vitoria_casa,1,30
+2024-10-26,16:30,Vitória,2–1,Fluminense,29497.0,Estádio Manoel Barradas,2,1,vitoria_casa,1,30
+2024-10-26,16:30,Flamengo,4–2,Juventude,657.0,Estadio Jornalista Mário Filho,4,2,vitoria_casa,2,30
+2024-10-26,16:30,Grêmio,3–1,Atl Goianiense,36959.0,Arena do Grêmio,3,1,vitoria_casa,2,31
+2024-10-26,16:30,Palmeiras,2–2,Fortaleza,40321.0,Allianz Parque,2,2,empate,0,31
+2024-10-26,18:30,Ath Paranaense,3–0,Cruzeiro,35959.0,Ligga Arena,3,0,vitoria_casa,3,31
+2024-10-26,19:00,Atlético Mineiro,1–3,Internacional,27028.0,Arena MRV,1,3,vitoria_fora,-2,31
+2024-10-26,19:00,RB Bragantino,0–1,Botafogo (RJ),74.0,Estádio Nabi Abi Chedid,0,1,vitoria_fora,-1,31
+2024-10-26,22:00,Criciúma,1–1,São Paulo,17422.0,Estádio Heriberto Hülse,1,1,empate,0,31
+2024-10-28,21:00,Vasco da Gama,3–2,Bahia,17213.0,Estádio Club de Regatas Vasco da Gama,3,2,vitoria_casa,1,31
+2024-10-28,18:00,Cuiabá,0–1,Corinthians,1668.0,Arena Pantanal,0,1,vitoria_fora,-1,31
+2024-10-30,19:00,Internacional,1–1,Flamengo,43729.0,Estádio José Pinheiro Borba,1,1,empate,0,31
+2024-11-01,21:00,Fluminense,2–2,Grêmio,35278.0,Estadio Jornalista Mário Filho,2,2,empate,0,31
+2024-11-02,16:00,RB Bragantino,0–0,Cuiabá,4103.0,Estádio Nabi Abi Chedid,0,0,empate,0,32
+2024-11-02,18:30,Juventude,0–3,Fortaleza,7419.0,Estádio Alfredo Jaconi,0,3,vitoria_fora,-3,32
+2024-11-02,18:30,Ath Paranaense,1–2,Vitória,40666.0,Ligga Arena,1,2,vitoria_fora,-1,32
+2024-11-04,20:00,Corinthians,2–0,Palmeiras,46085.0,Neo Química Arena,2,0,vitoria_casa,2,32
+2024-11-05,21:30,Bahia,0–3,São Paulo,29599.0,Itaipava Arena Fonte Nova,0,3,vitoria_fora,-3,32
+2024-11-05,21:30,Internacional,2–0,Criciúma,29097.0,Estádio José Pinheiro Borba,2,0,vitoria_casa,2,32
+2024-11-05,21:30,Botafogo (RJ),3–0,Vasco da Gama,32007.0,Estádio Nilton Santos,3,0,vitoria_casa,3,32
+2024-11-06,21:00,Atl Goianiense,1–0,Atlético Mineiro,3791.0,Estádio Antônio Accioly,1,0,vitoria_casa,1,32
+2024-11-06,21:00,Cruzeiro,0–1,Flamengo,20855.0,Estádio Raimundo Sampaio,0,1,vitoria_fora,-1,32
+2024-11-08,19:00,Internacional,2–0,Fluminense,35877.0,Estádio José Pinheiro Borba,2,0,vitoria_casa,2,32
+2024-11-08,21:30,Palmeiras,1–0,Grêmio,3367.0,Allianz Parque,1,0,vitoria_casa,1,33
+2024-11-09,19:00,Juventude,2–1,Bahia,6091.0,Estádio Alfredo Jaconi,2,1,vitoria_casa,1,33
+2024-11-09,19:00,Atl Goianiense,0–0,RB Bragantino,2419.0,Estádio Antônio Accioly,0,0,empate,0,33
+2024-11-09,21:00,São Paulo,2–1,Ath Paranaense,34777.0,Estádio do Morumbi,2,1,vitoria_casa,1,33
+2024-11-09,19:00,Cruzeiro,2–1,Criciúma,29287.0,Estádio Governador Magalhães Pinto,2,1,vitoria_casa,1,33
+2024-11-09,16:30,Botafogo (RJ),0–0,Cuiabá,41899.0,Estádio Nilton Santos,0,0,empate,0,33
+2024-11-09,16:30,Vitória,1–2,Corinthians,30973.0,Estádio Manoel Barradas,1,2,vitoria_fora,-1,33
+2024-11-09,19:00,Fortaleza,3–0,Vasco da Gama,45271.0,Estádio Castelão,3,0,vitoria_casa,3,33
+2024-11-13,20:00,Flamengo,0–0,Atlético Mineiro,63441.0,Estadio Jornalista Mário Filho,0,0,empate,0,33
+2024-11-16,18:30,Ath Paranaense,1–0,Atlético Mineiro,40935.0,Ligga Arena,1,0,vitoria_casa,1,33
+2024-11-20,11:00,Corinthians,2–1,Cruzeiro,46056.0,Neo Química Arena,2,1,vitoria_casa,1,34
+2024-11-20,16:30,Ath Paranaense,2–0,Atl Goianiense,42177.0,Ligga Arena,2,0,vitoria_casa,2,34
+2024-11-20,16:30,RB Bragantino,1–1,São Paulo,9017.0,Estádio Nabi Abi Chedid,1,1,empate,0,34
+2024-11-20,16:30,Criciúma,0–1,Vitória,12123.0,Estádio Heriberto Hülse,0,1,vitoria_fora,-1,34
+2024-11-20,18:00,Bahia,1–2,Palmeiras,36445.0,Itaipava Arena Fonte Nova,1,2,vitoria_fora,-1,34
+2024-11-20,18:00,Cuiabá,1–2,Flamengo,12891.0,Arena Pantanal,1,2,vitoria_fora,-1,34
+2024-11-20,19:00,Grêmio,2–2,Juventude,40426.0,Arena do Grêmio,2,2,empate,0,34
+2024-11-20,21:30,Atlético Mineiro,0–0,Botafogo (RJ),,Estádio Raimundo Sampaio,0,0,empate,0,34
+2024-11-21,20:00,Vasco da Gama,0–1,Internacional,17339.0,Estádio Club de Regatas Vasco da Gama,0,1,vitoria_fora,-1,34
+2024-11-22,21:30,Fluminense,2–2,Fortaleza,37969.0,Estadio Jornalista Mário Filho,2,2,empate,0,34
+2024-11-23,21:30,São Paulo,2–2,Atlético Mineiro,36783.0,Estádio do Morumbi,2,2,empate,0,35
+2024-11-23,19:30,Botafogo (RJ),1–1,Vitória,35491.0,Estádio Nilton Santos,1,1,empate,0,35
+2024-11-23,19:30,Atl Goianiense,0–1,Palmeiras,11216.0,Estádio Antônio Accioly,0,1,vitoria_fora,-1,35
+2024-11-23,19:30,Juventude,1–1,Cuiabá,6932.0,Estádio Alfredo Jaconi,1,1,empate,0,35
+2024-11-24,16:00,Bahia,1–1,Ath Paranaense,26307.0,Itaipava Arena Fonte Nova,1,1,empate,0,35
+2024-11-24,16:00,Internacional,4–1,RB Bragantino,41762.0,Estádio José Pinheiro Borba,4,1,vitoria_casa,3,35
+2024-11-24,16:00,Corinthians,3–1,Vasco da Gama,46083.0,Neo Química Arena,3,1,vitoria_casa,2,35
+2024-11-26,21:30,Atlético Mineiro,2–3,Juventude,,Estádio Raimundo Sampaio,2,3,vitoria_fora,-1,35
+2024-11-26,19:00,Fluminense,0–0,Criciúma,4124.0,Estadio Jornalista Mário Filho,0,0,empate,0,35
+2024-11-26,20:00,Fortaleza,0–0,Flamengo,57624.0,Estádio Castelão,0,0,empate,0,35
+2024-11-26,21:30,Palmeiras,1–3,Botafogo (RJ),31753.0,Allianz Parque,1,3,vitoria_fora,-2,36
+2024-11-27,21:00,Cruzeiro,1–1,Grêmio,21009.0,Estádio Governador Magalhães Pinto,1,1,empate,0,36
+2024-11-30,18:30,Cuiabá,1–2,Bahia,2613.0,Arena Pantanal,1,2,vitoria_fora,-1,36
+2024-11-30,19:30,Criciúma,2–4,Corinthians,18075.0,Estádio Heriberto Hülse,2,4,vitoria_fora,-2,36
+2024-11-30,21:30,Vasco da Gama,2–2,Atl Goianiense,1827.0,Estádio Club de Regatas Vasco da Gama,2,2,empate,0,36
+2024-12-01,16:00,Grêmio,2–1,São Paulo,39197.0,Arena do Grêmio,2,1,vitoria_casa,1,36
+2024-12-01,16:00,Flamengo,3–2,Internacional,56571.0,Estadio Jornalista Mário Filho,3,2,vitoria_casa,1,36
+2024-12-01,18:30,Vitória,2–0,Fortaleza,2909.0,Estádio Manoel Barradas,2,0,vitoria_casa,2,36
+2024-12-01,18:30,RB Bragantino,1–1,Cruzeiro,6223.0,Estádio Nabi Abi Chedid,1,1,empate,0,36
+2024-12-01,18:30,Ath Paranaense,1–1,Fluminense,41375.0,Ligga Arena,1,1,empate,0,36
+2024-12-03,20:00,Corinthians,3–0,Bahia,46263.0,Neo Química Arena,3,0,vitoria_casa,3,37
+2024-12-04,21:30,Cruzeiro,1–2,Palmeiras,,Estádio Governador Magalhães Pinto,1,2,vitoria_fora,-1,37
+2024-12-04,21:30,Internacional,0–1,Botafogo (RJ),37628.0,Estádio José Pinheiro Borba,0,1,vitoria_fora,-1,37
+2024-12-04,21:30,Atl Goianiense,3–1,Fortaleza,3157.0,Estádio Antônio Accioly,3,1,vitoria_casa,2,37
+2024-12-04,20:00,Criciúma,0–3,Flamengo,18849.0,Estádio Heriberto Hülse,0,3,vitoria_fora,-3,37
+2024-12-04,20:00,Vitória,1–1,Grêmio,26842.0,Estádio Manoel Barradas,1,1,empate,0,37
+2024-12-04,19:00,Vasco da Gama,2–0,Atlético Mineiro,17074.0,Estádio Club de Regatas Vasco da Gama,2,0,vitoria_casa,2,37
+2024-12-04,20:00,São Paulo,1–2,Juventude,31442.0,Estádio do Morumbi,1,2,vitoria_fora,-1,37
+2024-12-05,20:00,Fluminense,1–0,Cuiabá,5973.0,Estadio Jornalista Mário Filho,1,0,vitoria_casa,1,37
+2024-12-05,20:00,Ath Paranaense,1–2,RB Bragantino,41626.0,Ligga Arena,1,2,vitoria_fora,-1,37
+2024-12-08,16:00,Grêmio,0–3,Corinthians,42945.0,Arena do Grêmio,0,3,vitoria_fora,-3,38
+2024-12-08,16:00,Bahia,2–0,Atl Goianiense,48476.0,Itaipava Arena Fonte Nova,2,0,vitoria_casa,2,38
+2024-12-08,16:00,Palmeiras,0–1,Fluminense,34571.0,Allianz Parque,0,1,vitoria_fora,-1,38
+2024-12-08,16:00,Fortaleza,3–0,Internacional,51386.0,Estádio Castelão,3,0,vitoria_casa,3,38
+2024-12-08,16:00,Juventude,0–1,Cruzeiro,13518.0,Estádio Alfredo Jaconi,0,1,vitoria_fora,-1,38
+2024-12-08,16:00,Flamengo,2–2,Vitória,67113.0,Estadio Jornalista Mário Filho,2,2,empate,0,38
+2024-12-08,16:00,Botafogo (RJ),2–1,São Paulo,41986.0,Estádio Nilton Santos,2,1,vitoria_casa,1,38
+2024-12-08,15:00,Cuiabá,1–2,Vasco da Gama,703.0,Arena Pantanal,1,2,vitoria_fora,-1,38
+2024-12-08,16:00,RB Bragantino,5–1,Criciúma,911.0,Estádio Nabi Abi Chedid,5,1,vitoria_casa,4,38
+2024-12-08,16:00,Atlético Mineiro,1–0,Ath Paranaense,,Arena MRV,1,0,vitoria_casa,1,38
